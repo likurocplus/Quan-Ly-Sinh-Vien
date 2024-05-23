@@ -1,10 +1,10 @@
 <h1>ĐỒ ÁN CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT</h1>
 
-Introduction
+<h2>Introduction</h2>
 
 Bài nộp đồ án cuối kì môn cấu trúc dữ liệu và giải thuật, bài nộp bao gồm các bài tập 1 về chương trình quản lý sinh viên, bài tập 2 về bài toán đi tuần và file README.
 
-Install
+<h2>Install</h2>
 
 Bước 1: Cài đặt JDK 17 và IDE Java (Netbeans,Eclipse,…)
 
@@ -13,7 +13,7 @@ Bước 2: Tải Source Code và Open Project
 Bước 3: Ở package views có file Main.java là file main của đồ án, ấn chuột phải và Run as file main 
 
 
-Use
+<h2>Use</h2>
 
 Các tính năng của chương trình gồm: Nhập, xuất, lưu, tìm kiếm,…
 
@@ -60,7 +60,7 @@ Ví dụ sort theo tên
 
 * Lưu ý: một số chỗ cần xóa dấu enter tương tự cin.inorge C++ nên đôi lúc cần ấn enter để tiếp tục chương trình
 
-Technologies Used
+<h2>Technologies Used</h2>
 - Ngôn ngữ: Java Core
 - Phiên bản: Java 8_JDK 17
 - Thư viện util(Calendar để tính thời gian chạy,…)
